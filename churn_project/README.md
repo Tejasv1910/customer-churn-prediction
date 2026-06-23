@@ -117,7 +117,7 @@ curl -X POST http://localhost:8000/predict \
 
 ## Live Demo
 
-🔗 _[Add your deployed URL here once deployed to Render / HF Spaces]_
+🔗 (https://churn-api-gke0.onrender.com/docs)
 
 ## Author
 
